@@ -1,18 +1,14 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    io-wait (0.1.0)
     net-http (0.1.1)
       net-protocol
       uri
     net-protocol (0.1.0)
-      io-wait
-      timeout
-    nokogiri (1.13.5-x86_64-linux)
+    nokogiri (1.13.6-x86_64-linux)
       racc (~> 1.4)
     racc (1.6.0)
     rexml (3.2.5)
-    timeout (0.1.1)
     uri (0.10.1)
     xml-mapping (0.10.1)
 
