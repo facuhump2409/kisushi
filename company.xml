@@ -1,0 +1,24 @@
+<company name="ACME inc.">
+
+  <address>
+    <city>Berlin</city>
+    <zip>10113</zip>
+  </address>
+
+  <customers>
+
+    <customer id="jim">
+      <name>James Kirk</name>
+    </customer>
+
+    <customer id="ernie">
+      <name>Ernie</name>
+    </customer>
+
+    <customer id="bert">
+      <name>Bert</name>
+    </customer>
+
+  </customers>
+
+</company>
