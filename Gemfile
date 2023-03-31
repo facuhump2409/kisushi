@@ -4,7 +4,7 @@ source 'http://rubygems.org'
 
 gem 'net-http'
 gem 'nokogiri'
-gem 'uri', '0.10.1'
+gem 'uri', '0.10.2'
 
 gem 'xml-mapping', '~> 0.10.0'
 gem 'rexml'
