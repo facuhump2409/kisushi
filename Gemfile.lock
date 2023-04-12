@@ -5,9 +5,9 @@ GEM
       net-protocol
       uri
     net-protocol (0.1.0)
-    nokogiri (1.13.6-x86_64-linux)
+    nokogiri (1.14.3-x86_64-linux)
       racc (~> 1.4)
-    racc (1.6.0)
+    racc (1.6.2)
     rexml (3.2.5)
     uri (0.10.1)
     xml-mapping (0.10.1)
